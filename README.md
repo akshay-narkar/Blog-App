@@ -1,24 +1,82 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Blog App
 
-Things you may want to cover:
+> A super-basic blog app made with rails and run in sql, app working for create a article, delete it, see it and comment it
 
-* Ruby version
+![screenshot](/blogss.png)
 
-* System dependencies
+## Built With
 
-* Configuration
+- HTML
+- ERB
+- SCSS
+- Ruby
+- JavaScript
+- CSS
+- SQL
 
-* Database creation
+### Prerequisites
 
-* Database initialization
+Text Editor (VSCode is suggested.)
+Ruby
+Rails
+Bundler
+Yarn
+SQL
 
-* How to run the test suite
+## Getting Started
 
-* Services (job queues, cache servers, search engines, etc.)
+To get a local copy up and running follow these simple example steps:
 
-* Deployment instructions
+- Fork this project
+- Open your terminal
+- Clone this project `git clone git@github.com:helman101/blog-app.git`
+- Go to the project folder `cd blog-app`
 
-* ...
+### Install
+
+- Run `bundle install`
+- Migrate de database `rails db:migrate`
+
+### Run tests
+
+- Run `rails s` or `rails server`
+- Now go to http://localhost:3000
+- You will se the project working!
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@DibDas](https://github.com/dibdas)
+- LinkedIn: [Dibyendu Das](https://www.linkedin.com/in/dibyendu-das-b5967a1b1/)
+
+👤 **Author2**
+
+- Github: [@Akshay](https://github.com/akshay-narkar)
+- Twitter: [Akshay](https://www.twitter.com/akidoit)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome! Start by:
+
+- Forking the project
+- Cloning the project to your local machine
+- `cd` into the project directory
+- Run `git checkout -b your-branch-name`
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description to the development branch of the original project for a review
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Thanks to BarbieTechFabulous youtube channel for the tutorials
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
