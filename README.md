@@ -1,65 +1,73 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Blog App
 
-> One paragraph statement about the project.
+> A super-basic blog app made with rails and run in sql, app working for create a article, delete it, see it and comment it
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](/blogss.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+- HTML
+- ERB
+- SCSS
+- Ruby
+- JavaScript
+- CSS
+- SQL
 
 ### Prerequisites
 
-### Setup
+Text Editor (VSCode is suggested.)
+Ruby
+Rails
+Bundler
+Yarn
+SQL
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps:
+
+- Fork this project
+- Open your terminal
+- Clone this project `git clone git@github.com:akshay-narkar/Blog-App.git`
+- Go to the project folder `cd Blog-App`
 
 ### Install
 
-### Usage
+- Run `bundle install`
+- Migrate de database `rails db:migrate`
 
 ### Run tests
 
-### Deployment
-
-
+- Run `rails s` or `rails server`
+- Now go to http://localhost:3000
+- You will se the project working!
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@DibDas](https://github.com/dibdas)
+- LinkedIn: [Dibyendu Das](https://www.linkedin.com/in/dibyendu-das-b5967a1b1/)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- Github: [@Akshay](https://github.com/akshay-narkar)
+- Twitter: [Akshay](https://www.twitter.com/akidoit)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues and feature requests are welcome! Start by:
 
-Feel free to check the [issues page](issues/).
+- Forking the project
+- Cloning the project to your local machine
+- `cd` into the project directory
+- Run `git checkout -b your-branch-name`
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description to the development branch of the original project for a review
 
 ## Show your support
 
@@ -67,9 +75,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to BarbieTechFabulous youtube channel for the tutorials
 
 ## 📝 License
 
