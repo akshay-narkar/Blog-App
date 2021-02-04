@@ -31,8 +31,8 @@ To get a local copy up and running follow these simple example steps:
 
 - Fork this project
 - Open your terminal
-- Clone this project `git clone git@github.com:helman101/blog-app.git`
-- Go to the project folder `cd blog-app`
+- Clone this project `git clone git@github.com:akshay-narkar/Blog-App.git`
+- Go to the project folder `cd Blog-App`
 
 ### Install
 
